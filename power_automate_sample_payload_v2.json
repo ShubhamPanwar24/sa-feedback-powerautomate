@@ -1,0 +1,22 @@
+{
+  "source": "github-pages-sa-feedback",
+  "saOwner": "Sample Owner",
+  "submittedAt": "2026-06-11T10:00:00.000Z",
+  "submissionId": "Sample Owner|SA-00000001|2026-06-11",
+  "rows": [
+    {
+      "Submission ID": "Sample Owner|SA-00000001|2026-06-11",
+      "Cluster ID": "89971278",
+      "HHID": "89971278",
+      "PMAID": "2425458063",
+      "Work Order Number": "03083394",
+      "SA Owner": "Sample Owner",
+      "Appointment Number": "SA-00000001",
+      "Reason for Pending": "Customer not available",
+      "By which Date Connect": "2026-06-12",
+      "Submitted Time": "2026-06-11T10:00:00.000Z",
+      "Batch Date": "2026-06-11",
+      "Task Status": "Dispatched"
+    }
+  ]
+}
