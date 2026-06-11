@@ -1,0 +1,5 @@
+{
+  "powerAutomateUrl": "PASTE_POWER_AUTOMATE_HTTP_POST_URL_HERE",
+  "appTitle": "SA Owner Pending Feedback Portal",
+  "requireAllTasksBeforeSubmit": true
+}
