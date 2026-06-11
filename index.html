@@ -8,7 +8,7 @@ body{margin:0;background:#f4f7fb;font-family:Segoe UI,Arial,sans-serif;color:#10
 </style>
 </head>
 <body>
-<div class="head"><h1 id="appTitle">SA Owner Pending Feedback Portal</h1><p>GitHub Pages + Power Automate + Excel. Fixed to prevent duplicate submissions.</p></div>
+<div class="head"><h1 id="appTitle">SA Owner Pending Feedback Portal</h1></div>
 <div class="wrap">
   <div class="card"><p class="title">Load Pending Tasks</p><button class="btn" id="refresh">Refresh Pending Tasks</button><button class="btn red" id="clearLocal">Clear Local Submitted/Draft</button><div id="loadMsg" class="msg hidden"></div><div class="row" style="margin-top:14px"><div><label>Select SA Owner / RM</label><select id="owner"><option value="">Select your name</option></select></div><div><label>Search</label><input id="search" placeholder="Cluster / HHID / PMAID / WO / Appointment"></div></div></div>
   <div class="card hidden" id="summary"><p class="title" id="ownerTitle">Pending Tasks</p><div class="summary"><div class="box"><small>Total</small><b id="total">0</b></div><div class="box"><small>Filled</small><b id="filled">0</b></div><div class="box"><small>Remaining</small><b id="remain">0</b></div><div class="box"><small>Already Submitted On This Browser</small><b id="submittedLocal">0</b></div></div></div>
