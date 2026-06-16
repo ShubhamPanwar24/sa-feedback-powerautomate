@@ -8,7 +8,7 @@
     "Appointment Number": "SA-03624305",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -20,7 +20,7 @@
     "Appointment Number": "SA-03631341",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -32,7 +32,19 @@
     "Appointment Number": "SA-03633567",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "87332140",
+    "HHID": "87332140",
+    "PMAID": "2123377217",
+    "Work Order Number": "03103589",
+    "SA Owner": "Beerendra Singh (H132953)",
+    "Appointment Number": "SA-03643786",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -44,7 +56,7 @@
     "Appointment Number": "SA-03591158",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -56,7 +68,7 @@
     "Appointment Number": "SA-03613160",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -68,7 +80,7 @@
     "Appointment Number": "SA-03623589",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -80,7 +92,7 @@
     "Appointment Number": "SA-03623640",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -92,7 +104,7 @@
     "Appointment Number": "SA-03627079",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -104,7 +116,7 @@
     "Appointment Number": "SA-03631035",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -116,19 +128,7 @@
     "Appointment Number": "SA-03635026",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "87968249",
-    "HHID": "87968249",
-    "PMAID": "2425056863",
-    "Work Order Number": "03097474",
-    "SA Owner": "Chandrabhan Jatav (H155781)",
-    "Appointment Number": "SA-03635416",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -140,7 +140,7 @@
     "Appointment Number": "SA-03639182",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -152,7 +152,7 @@
     "Appointment Number": "SA-03639185",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -164,7 +164,19 @@
     "Appointment Number": "SA-03639189",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "87968249",
+    "HHID": "87968249",
+    "PMAID": "2425056863",
+    "Work Order Number": "03097474",
+    "SA Owner": "Chandrabhan Jatav (H155781)",
+    "Appointment Number": "SA-03643007",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -176,7 +188,7 @@
     "Appointment Number": "SA-03604329",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -188,7 +200,7 @@
     "Appointment Number": "SA-03629971",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -200,7 +212,7 @@
     "Appointment Number": "SA-03630452",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -212,7 +224,7 @@
     "Appointment Number": "SA-03634754",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -224,7 +236,7 @@
     "Appointment Number": "SA-03639175",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -236,19 +248,7 @@
     "Appointment Number": "SA-03639445",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "46638453",
-    "HHID": "46638453",
-    "PMAID": "2126701115",
-    "Work Order Number": "03083331",
-    "SA Owner": "Dharamveer RM (H24670)",
-    "Appointment Number": "SA-03640176",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -260,7 +260,7 @@
     "Appointment Number": "SA-03640177",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -272,31 +272,7 @@
     "Appointment Number": "SA-03640251",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "10863992",
-    "HHID": "10863992",
-    "PMAID": "2221341313",
-    "Work Order Number": "03101037",
-    "SA Owner": "Dharamveer RM (H24670)",
-    "Appointment Number": "SA-03640432",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "26607179",
-    "HHID": "26607179",
-    "PMAID": "2318670243",
-    "Work Order Number": "03101082",
-    "SA Owner": "Dharamveer RM (H24670)",
-    "Appointment Number": "SA-03640477",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -308,31 +284,43 @@
     "Appointment Number": "SA-03640684",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "46406566",
-    "HHID": "46406566",
-    "PMAID": "2425362466",
-    "Work Order Number": "03078059",
-    "SA Owner": "Diwakar salun (H24679)",
-    "Appointment Number": "SA-03613065",
+    "Cluster ID": "46638453",
+    "HHID": "46638453",
+    "PMAID": "2126701115",
+    "Work Order Number": "03083331",
+    "SA Owner": "Dharamveer RM (H24670)",
+    "Appointment Number": "SA-03642246",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "95286129",
-    "HHID": "95286129",
-    "PMAID": "2425132452",
-    "Work Order Number": "03054049",
-    "SA Owner": "Diwakar salun (H24679)",
-    "Appointment Number": "SA-03613076",
+    "Cluster ID": "34546752",
+    "HHID": "34546752",
+    "PMAID": "2224828288",
+    "Work Order Number": "03102972",
+    "SA Owner": "Dharamveer RM (H24670)",
+    "Appointment Number": "SA-03643033",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Open",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "36435812",
+    "HHID": "36435812",
+    "PMAID": "2218091887",
+    "Work Order Number": "03103622",
+    "SA Owner": "Dharamveer RM (H24670)",
+    "Appointment Number": "SA-03643819",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -344,7 +332,7 @@
     "Appointment Number": "SA-03626519",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -356,19 +344,7 @@
     "Appointment Number": "SA-03627774",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "15134416",
-    "HHID": "15134416",
-    "PMAID": "2422603382",
-    "Work Order Number": "03089002",
-    "SA Owner": "Diwakar salun (H24679)",
-    "Appointment Number": "SA-03630077",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -380,7 +356,7 @@
     "Appointment Number": "SA-03630191",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -392,7 +368,7 @@
     "Appointment Number": "SA-03630307",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -404,7 +380,7 @@
     "Appointment Number": "SA-03631076",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -416,7 +392,7 @@
     "Appointment Number": "SA-03637591",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -428,7 +404,7 @@
     "Appointment Number": "SA-03639111",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -440,31 +416,7 @@
     "Appointment Number": "SA-03639112",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "74016421",
-    "HHID": "74016421",
-    "PMAID": "2323841239",
-    "Work Order Number": "03094749",
-    "SA Owner": "Diwakar salun (H24679)",
-    "Appointment Number": "SA-03639117",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "31112348",
-    "HHID": "31112348",
-    "PMAID": "2219435663",
-    "Work Order Number": "03100109",
-    "SA Owner": "Diwakar salun (H24679)",
-    "Appointment Number": "SA-03639440",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -476,7 +428,55 @@
     "Appointment Number": "SA-03639616",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "95286129",
+    "HHID": "95286129",
+    "PMAID": "2425132452",
+    "Work Order Number": "03054049",
+    "SA Owner": "Diwakar salun (H24679)",
+    "Appointment Number": "SA-03642314",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "88545049",
+    "HHID": "88545049",
+    "PMAID": "2322097928",
+    "Work Order Number": "03103341",
+    "SA Owner": "Diwakar salun (H24679)",
+    "Appointment Number": "SA-03643533",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "40522327",
+    "HHID": "40522327",
+    "PMAID": "2425395084",
+    "Work Order Number": "03103649",
+    "SA Owner": "Diwakar salun (H24679)",
+    "Appointment Number": "SA-03643846",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "52692803",
+    "HHID": "52692803",
+    "PMAID": "2325051380",
+    "Work Order Number": "03103679",
+    "SA Owner": "Diwakar salun (H24679)",
+    "Appointment Number": "SA-03643876",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -488,7 +488,7 @@
     "Appointment Number": "SA-03608953",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -500,7 +500,7 @@
     "Appointment Number": "SA-03609179",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -512,7 +512,7 @@
     "Appointment Number": "SA-03609248",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -524,7 +524,7 @@
     "Appointment Number": "SA-03611503",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -536,19 +536,7 @@
     "Appointment Number": "SA-03622872",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "98768308",
-    "HHID": "98768308",
-    "PMAID": "2123377994",
-    "Work Order Number": "03083375",
-    "SA Owner": "Kapil Laxkar H217831",
-    "Appointment Number": "SA-03623564",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -560,7 +548,7 @@
     "Appointment Number": "SA-03626791",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -572,19 +560,7 @@
     "Appointment Number": "SA-03628308",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "69992318",
-    "HHID": "69992318",
-    "PMAID": "2425130353",
-    "Work Order Number": "03091945",
-    "SA Owner": "Kapil Laxkar H217831",
-    "Appointment Number": "SA-03633211",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -596,43 +572,19 @@
     "Appointment Number": "SA-03634376",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "73411722",
-    "HHID": "73411722",
-    "PMAID": "2425361102",
-    "Work Order Number": "03035337",
+    "Cluster ID": "69992318",
+    "HHID": "69992318",
+    "PMAID": "2425130353",
+    "Work Order Number": "03091945",
     "SA Owner": "Kapil Laxkar H217831",
-    "Appointment Number": "SA-03634933",
+    "Appointment Number": "SA-03642378",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "42412633",
-    "HHID": "42412633",
-    "PMAID": "2123072643",
-    "Work Order Number": "03004241",
-    "SA Owner": "Kapil Laxkar H217831",
-    "Appointment Number": "SA-03638069",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "33607272",
-    "HHID": "33607272",
-    "PMAID": "2221428656",
-    "Work Order Number": "03094628",
-    "SA Owner": "Nand Lal Jat H217972",
-    "Appointment Number": "SA-03632032",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -644,7 +596,7 @@
     "Appointment Number": "SA-03634034",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -656,7 +608,7 @@
     "Appointment Number": "SA-03637424",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -668,7 +620,7 @@
     "Appointment Number": "SA-03638599",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -680,19 +632,7 @@
     "Appointment Number": "SA-03639048",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "64899911",
-    "HHID": "64899911",
-    "PMAID": "2123351981",
-    "Work Order Number": "03101020",
-    "SA Owner": "Nand Lal Jat H217972",
-    "Appointment Number": "SA-03640415",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -704,7 +644,31 @@
     "Appointment Number": "SA-03640691",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "64899911",
+    "HHID": "64899911",
+    "PMAID": "2123351981",
+    "Work Order Number": "03101020",
+    "SA Owner": "Nand Lal Jat H217972",
+    "Appointment Number": "SA-03641637",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "15834696",
+    "HHID": "15834696",
+    "PMAID": "2422925920",
+    "Work Order Number": "03103639",
+    "SA Owner": "Nand Lal Jat H217972",
+    "Appointment Number": "SA-03643836",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -716,7 +680,7 @@
     "Appointment Number": "SA-03631407",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -728,7 +692,7 @@
     "Appointment Number": "SA-03631414",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -740,7 +704,7 @@
     "Appointment Number": "SA-03631416",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -752,7 +716,7 @@
     "Appointment Number": "SA-03634948",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -764,7 +728,7 @@
     "Appointment Number": "SA-03634960",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -776,7 +740,7 @@
     "Appointment Number": "SA-03635880",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -788,7 +752,7 @@
     "Appointment Number": "SA-03639180",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -800,7 +764,7 @@
     "Appointment Number": "SA-03639187",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -812,7 +776,7 @@
     "Appointment Number": "SA-03639191",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -824,31 +788,31 @@
     "Appointment Number": "SA-03639486",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "20393703",
-    "HHID": "20393703",
-    "PMAID": "2121384476",
-    "Work Order Number": "03101143",
+    "Cluster ID": "12992755",
+    "HHID": "12992755",
+    "PMAID": "2318251216",
+    "Work Order Number": "03102675",
     "SA Owner": "Rajender Kumar (H42125)",
-    "Appointment Number": "SA-03640538",
+    "Appointment Number": "SA-03642513",
     "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Task Status": "Open",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "24572514",
-    "HHID": "24572514",
-    "PMAID": "2422302165",
-    "Work Order Number": "03020375",
-    "SA Owner": "Rakesh Yogi H217780",
-    "Appointment Number": "SA-03619242",
+    "Cluster ID": "41677220",
+    "HHID": "41677220",
+    "PMAID": "2123594541",
+    "Work Order Number": "03103041",
+    "SA Owner": "Rajender Kumar (H42125)",
+    "Appointment Number": "SA-03643153",
     "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Task Status": "Open",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -860,7 +824,7 @@
     "Appointment Number": "SA-03619313",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -872,19 +836,7 @@
     "Appointment Number": "SA-03627734",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "69697826",
-    "HHID": "69697826",
-    "PMAID": "2425191479",
-    "Work Order Number": "03091926",
-    "SA Owner": "Rakesh Yogi H217780",
-    "Appointment Number": "SA-03630273",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -896,7 +848,19 @@
     "Appointment Number": "SA-03634419",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "24572514",
+    "HHID": "24572514",
+    "PMAID": "2422302165",
+    "Work Order Number": "03020375",
+    "SA Owner": "Rakesh Yogi H217780",
+    "Appointment Number": "SA-03641663",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -905,34 +869,22 @@
     "PMAID": "2322702726",
     "Work Order Number": "03100836",
     "SA Owner": "Rakesh Yogi H217780",
-    "Appointment Number": "SA-03640231",
+    "Appointment Number": "SA-03641717",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "74719862",
-    "HHID": "74719862",
-    "PMAID": "2123677783",
-    "Work Order Number": "03081805",
-    "SA Owner": "Rameshchand Kumawat (H24684)",
-    "Appointment Number": "SA-03620723",
+    "Cluster ID": "11962228",
+    "HHID": "11962228",
+    "PMAID": "2219469483",
+    "Work Order Number": "03103174",
+    "SA Owner": "Rakesh Yogi H217780",
+    "Appointment Number": "SA-03643366",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "79710825",
-    "HHID": "79710825",
-    "PMAID": "2123023138",
-    "Work Order Number": "03094561",
-    "SA Owner": "Rameshchand Kumawat (H24684)",
-    "Appointment Number": "SA-03631965",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -944,7 +896,7 @@
     "Appointment Number": "SA-03633048",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -956,7 +908,7 @@
     "Appointment Number": "SA-03638602",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -968,19 +920,31 @@
     "Appointment Number": "SA-03638626",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "11405011",
-    "HHID": "11405011",
-    "PMAID": "2422254196",
-    "Work Order Number": "03100225",
+    "Cluster ID": "79710825",
+    "HHID": "79710825",
+    "PMAID": "2123023138",
+    "Work Order Number": "03094561",
     "SA Owner": "Rameshchand Kumawat (H24684)",
-    "Appointment Number": "SA-03639556",
+    "Appointment Number": "SA-03641840",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "74719862",
+    "HHID": "74719862",
+    "PMAID": "2123677783",
+    "Work Order Number": "03081805",
+    "SA Owner": "Rameshchand Kumawat (H24684)",
+    "Appointment Number": "SA-03643208",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -989,10 +953,22 @@
     "PMAID": "2422912101",
     "Work Order Number": "03100796",
     "SA Owner": "Rameshchand Kumawat (H24684)",
-    "Appointment Number": "SA-03640191",
+    "Appointment Number": "SA-03643214",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "33417846",
+    "HHID": "33417846",
+    "PMAID": "2221444016",
+    "Work Order Number": "03103342",
+    "SA Owner": "Rameshchand Kumawat (H24684)",
+    "Appointment Number": "SA-03643534",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1004,7 +980,7 @@
     "Appointment Number": "SA-03592227",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1016,7 +992,7 @@
     "Appointment Number": "SA-03612893",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1028,7 +1004,7 @@
     "Appointment Number": "SA-03614211",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1040,7 +1016,7 @@
     "Appointment Number": "SA-03620881",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1052,19 +1028,7 @@
     "Appointment Number": "SA-03625141",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "76980266",
-    "HHID": "76980266",
-    "PMAID": "2126626322",
-    "Work Order Number": "03088316",
-    "SA Owner": "Shiv Pal Kumawat H214005",
-    "Appointment Number": "SA-03635841",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1076,7 +1040,7 @@
     "Appointment Number": "SA-03636537",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1088,19 +1052,43 @@
     "Appointment Number": "SA-03638976",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "87052351",
-    "HHID": "87052351",
-    "PMAID": "2425699587",
-    "Work Order Number": "03089754",
+    "Cluster ID": "76980266",
+    "HHID": "76980266",
+    "PMAID": "2126626322",
+    "Work Order Number": "03088316",
     "SA Owner": "Shiv Pal Kumawat H214005",
-    "Appointment Number": "SA-03638999",
+    "Appointment Number": "SA-03642824",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "65383601",
+    "HHID": "65383601",
+    "PMAID": "2317925725",
+    "Work Order Number": "03102955",
+    "SA Owner": "Shiv Pal Kumawat H214005",
+    "Appointment Number": "SA-03643004",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Open",
+    "Batch Date": "2026-06-16",
+    "Feedback Status": "Pending"
+  },
+  {
+    "Cluster ID": "89383659",
+    "HHID": "89383659",
+    "PMAID": "2318793631",
+    "Work Order Number": "03103561",
+    "SA Owner": "Shiv Pal Kumawat H214005",
+    "Appointment Number": "SA-03643758",
+    "Work Type": "Maintenance-Meter Related",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1112,7 +1100,7 @@
     "Appointment Number": "SA-03612515",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1124,7 +1112,7 @@
     "Appointment Number": "SA-03612529",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1136,19 +1124,7 @@
     "Appointment Number": "SA-03614337",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "38019443",
-    "HHID": "38019443",
-    "PMAID": "2122522189",
-    "Work Order Number": "03085161",
-    "SA Owner": "Vikram Singh (H24749)",
-    "Appointment Number": "SA-03631199",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1160,7 +1136,7 @@
     "Appointment Number": "SA-03631399",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1172,19 +1148,7 @@
     "Appointment Number": "SA-03631436",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
-    "Feedback Status": "Pending"
-  },
-  {
-    "Cluster ID": "53945403",
-    "HHID": "53945403",
-    "PMAID": "2320789167",
-    "Work Order Number": "03089657",
-    "SA Owner": "Vikram Singh (H24749)",
-    "Appointment Number": "SA-03635923",
-    "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
@@ -1196,19 +1160,19 @@
     "Appointment Number": "SA-03640416",
     "Work Type": "Maintenance-Meter Related",
     "Task Status": "Dispatched",
-    "Batch Date": "2026-06-15",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   },
   {
-    "Cluster ID": "42490397",
-    "HHID": "42490397",
-    "PMAID": "2422009238",
-    "Work Order Number": "03101022",
+    "Cluster ID": "53945403",
+    "HHID": "53945403",
+    "PMAID": "2320789167",
+    "Work Order Number": "03089657",
     "SA Owner": "Vikram Singh (H24749)",
-    "Appointment Number": "SA-03640417",
+    "Appointment Number": "SA-03641535",
     "Work Type": "Maintenance-Meter Related",
-    "Task Status": "Open",
-    "Batch Date": "2026-06-15",
+    "Task Status": "Dispatched",
+    "Batch Date": "2026-06-16",
     "Feedback Status": "Pending"
   }
 ]
